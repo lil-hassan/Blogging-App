@@ -51,7 +51,7 @@ A full-featured Java-based blogging application with a graphical user interface 
 
 ## 👤 Author
 
-**Your Name**  
+**Hassan Raza**  
 [GitHub Profile](https://github.com/lil-hassan)
 
 ---
