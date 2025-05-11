@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Blogging App:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Blogging_App_jar</output-path>
+    <root id="archive" name="Blogging App.jar">
+      <element id="module-output" name="Blogging App" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mysql-connector-java-8.0.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../flatlaf-3.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
